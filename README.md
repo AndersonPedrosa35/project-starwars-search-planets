@@ -7,22 +7,9 @@ Projeto proposto para consolidar os conhecimentos adquiridos na Trybe, o objetiv
 # Sumário
 
 - [Habilidades](#habilidades)
-- [Entregáveis](#entregáveis)
-  - [O que deverá ser desenvolvido](#o-que-deverá-ser-desenvolvido)
-  - [Desenvolvimento](#desenvolvimento)
-  - [Data de entrega](#data-de-entrega)
-- [Instruções para entregar seu projeto:](#instruções-para-entregar-seu-projeto)
-  - [Antes de começar a desenvolver](#antes-de-começar-a-desenvolver)
-  - [Durante o desenvolvimento](#durante-o-desenvolvimento)
-- [Como desenvolver](#como-desenvolver)
-  - [Linter](#linter)
-- [Requisitos do projeto](#requisitos-do-projeto)
-  - [Lista de requisitos](#lista-de-requisitos)
-
-- [Depois de terminar o desenvolvimento (opcional)](#depois-de-terminar-o-desenvolvimento-opcional)
-- [Revisando um pull request](#revisando-um-pull-request)
-- [Avisos Finais](#avisos-finais)
-
+- [O que deverá ser desenvolvido](#o-que-deverá-ser-desenvolvido)
+- [Linter](#linter)
+- [Como utilizar](#Como-utilizar)
 ---
 
 # Habilidades
@@ -37,8 +24,6 @@ Nesse projeto, você será capaz de:
 * Utilizado a linguagem Javascript com o framework React.js
 
 ---
-
-# Entregáveis
 
 ## O que deverá ser desenvolvido
 
